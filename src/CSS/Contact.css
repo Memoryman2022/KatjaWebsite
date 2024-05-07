@@ -1,0 +1,13 @@
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+h2 {
+  width: 80%;
+}
+.submit-email-button {
+  background-color: blue;
+}

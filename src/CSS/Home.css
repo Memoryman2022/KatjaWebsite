@@ -1,0 +1,15 @@
+.home-container {
+  width: 100%;
+}
+
+.home-image-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+  object-fit: cover;
+}

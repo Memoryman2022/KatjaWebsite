@@ -1,0 +1,23 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(225, 218, 204);
+  color: #4f2e12;
+  height: 100px;
+  padding: 10px;
+}
+
+.navbar-menu {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-menu li {
+  float: left;
+  position: relative;
+  padding: 10px;
+}
