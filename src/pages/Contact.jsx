@@ -18,11 +18,11 @@ function Contact() {
   };
   return (
     <div className="contact-page">
-      <h3>
+      <h4>
         To discuss a comission or inquire about exhibitions please feel free to
         contact the artist via email
-      </h3>
-      <h3>Email: stadel.katja@gmx.de</h3>
+      </h4>
+      <h4>Email: stadel.katja@gmx.de</h4>
 
       <form action="">
         <label>
