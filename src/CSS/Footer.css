@@ -10,15 +10,13 @@
   padding: 10px;
 }
 .footer img {
-  width: 35px;
-  padding: 2px;
+  width: 45px;
+  padding: 5px;
 }
 
 .footer-info {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
+  height: 100px;
+  width: 50%;
+
   padding: 5px;
 }
