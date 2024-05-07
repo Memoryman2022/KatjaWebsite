@@ -22,8 +22,8 @@ function Contact() {
         To discuss a comission or inquire about exhibitions please feel free to
         contact the artist via email
       </h2>
-      <h3>Email: KSArt@web.de</h3>
-      <h3>Phone: 00000000</h3>
+      <h3>Email: stadel.katja@gmx.de</h3>
+
       <form action="">
         <label>
           <input
