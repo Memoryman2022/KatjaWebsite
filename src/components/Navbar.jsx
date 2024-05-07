@@ -6,7 +6,7 @@ import "../CSS/Navbar.css";
 function Navbar() {
   return (
     <div className="navbar">
-      <div className="navbar-logo">Navbar</div>
+      <div className="navbar-logo">Katja Stadel --- Peas of Art</div>
 
       <ul className="navbar-menu">
         <li className="menu-list-item">
